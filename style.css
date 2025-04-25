@@ -8,3 +8,9 @@
     font-size: 1rem; /*Tamanho de fonte base(geralmente 16px)*/
     font-family: 'montserrat';/*Fonte principal do site*/
  }
+ /*Estilo do cabeçalho*/
+
+header{
+   background-color: #ffffff;/* Fundo branco para o cabeçalho*/
+   
+}
